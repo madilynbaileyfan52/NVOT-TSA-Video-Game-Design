@@ -8,6 +8,6 @@ We all would gladly appreciate it if the following rules **were followed at all 
   2. Please respect each other (this includes not editing someone else's work without their permission).
   3. In order to solve problems as efficiently as possible, follow these directions:
       1. General Issues: Reach out to one of our fellow members on [Slack](https://tsavideogame.slack.com).
-      2. Repository Related Issues: Open a GitHub issue ("Issues" tab above).
+      2. Repository Related Issues: Open a GitHub issue using the appropriate template ("Issues" tab above).
       
 Violators of the above rules will be politely warned before any corrective action is taken.
