@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Use this template to shine a light on any bugs that exist with the game.
-title: 'Bug Report: [Fill In With The Bug You Found] Bug'
+title: 'Bug Report: (Fill In With The Bug You Found) Bug'
 labels: bug
 assignees: ''
 
@@ -23,9 +23,9 @@ If applicable, add screenshots to help explain your problem.
 
 **User Environment (Please fill in at least one field)**
 *Developer(s) will be able to assist better with this information.*
- - OS: [e.g. iOS]
- - Browser [e.g. Chrome, Safari]
- - Version [e.g. 22]
+ - OS: (e.g. iOS)
+ - Browser (e.g. Chrome, Safari)
+ - Version (e.g. 22)
 
 **Additional Context (if applicable)**
 Add any other context about the problem here.

@@ -2,14 +2,14 @@
 name: Feature Request
 about: Use this template to shine a light on any features that you want to incorporate
   into the game.
-title: 'Feature Request: [Specific Feature That You Want]'
+title: 'Feature Request: (Specific Feature That You Want)'
 labels: enhancement
 assignees: ''
 
 ---
 
 **Request Related To A Problem?**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+A clear and concise description of what the problem is. (Ex. I'm always frustrated when...)
 
 **Describe Your Solution**
 A clear and concise description of what you want to happen.
